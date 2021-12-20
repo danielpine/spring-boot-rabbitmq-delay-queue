@@ -1,0 +1,57 @@
+{"properties": [
+  {
+    "name": "queue.host",
+    "type": "java.lang.String",
+    "description": "A description for 'queue.host'"
+  },
+  {
+    "name": "queue.port",
+    "type": "java.lang.String",
+    "description": "A description for 'queue.port'"
+  },
+  {
+    "name": "queue.username",
+    "type": "java.lang.String",
+    "description": "A description for 'queue.username'"
+  },
+  {
+    "name": "queue.password",
+    "type": "java.lang.String",
+    "description": "A description for 'queue.password'"
+  },
+  {
+    "name": "queue.failed_name",
+    "type": "java.lang.String",
+    "description": "A description for 'queue.failed_name'"
+  },
+  {
+    "name": "queue.connection.timeout",
+    "type": "java.lang.String",
+    "description": "A description for 'queue.connection.timeout'"
+  },
+  {
+    "name": "queue.concurrency",
+    "type": "java.lang.String",
+    "description": "A description for 'queue.concurrency'"
+  },
+  {
+    "name": "queue.working_name",
+    "type": "java.lang.String",
+    "description": "A description for 'queue.working_name'"
+  },
+  {
+    "name": "queue.connection.min_threads",
+    "type": "java.lang.String",
+    "description": "A description for 'queue.connection.min_threads'"
+  },
+  {
+    "name": "queue.connection.max_threads",
+    "type": "java.lang.String",
+    "description": "A description for 'queue.connection.max_threads'"
+  },
+  {
+    "name": "queue.connection.max_queued",
+    "type": "java.lang.String",
+    "description": "A description for 'queue.connection.max_queued'"
+  }
+]}
